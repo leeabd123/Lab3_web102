@@ -9,4 +9,4 @@
 
 
 
-## Will make sure its a gif not loom video next time, was just running into some technical errors
+Will make sure its a gif not loom video next time, was just running into some technical errors
