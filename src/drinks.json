@@ -1,0 +1,49 @@
+{
+  "drinks": [
+    {
+      "name": "toffee almond cappuccino",
+      "ingredients": {
+        "temp": "hot",
+        "syrup": "toffee",
+        "milk": "almond",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "iced vanilla latte",
+      "ingredients": {
+        "temp": "cold",
+        "syrup": "vanilla",
+        "milk": "cow",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "caramel frappuccino",
+      "ingredients": {
+        "temp": "cold",
+        "syrup": "caramel",
+        "milk": "cow",
+        "blended": "yes"
+      }
+    },
+    {
+      "name": "hot mocha",
+      "ingredients": {
+        "temp": "hot",
+        "syrup": "mocha",
+        "milk": "cow",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "oat milk maple latte",
+      "ingredients": {
+        "temp": "hot",
+        "syrup": "maple",
+        "milk": "oat",
+        "blended": "no"
+      }
+    }
+  ]
+}
